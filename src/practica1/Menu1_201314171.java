@@ -14,8 +14,6 @@ import static practica1.Practica1_201314171.op;
 import static practica1.buscaminas_201314171.si;
 import static practica1.buscaminas_201314171.sijuego;
 
-//import static practica1.practica1_201314171.op;
-
 /**
  *
  * @author 3nriqu3

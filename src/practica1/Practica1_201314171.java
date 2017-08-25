@@ -71,7 +71,6 @@ public class Practica1_201314171 {
                  imprimirTablero(filas,columnas,matriz);
                  System.out.println("");
                  System.out.println("");
-                 //Movimiento();
                  Movimiento2();
                 victoriaDerrota(x, y);
              

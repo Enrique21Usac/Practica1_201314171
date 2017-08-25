@@ -253,7 +253,6 @@ public class buscaminas_201314171 {
             System.out.println("--------------------------------------------------------");
             sijuego = true;
             si=true;
-            //Menu();
         }
     }
 
